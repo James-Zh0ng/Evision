@@ -1,0 +1,15 @@
+token_address,decimals,logo,name,symbol
+0xc00e94Cb662C3520282E6f5717214004A7f26888,18,https://static.alchemyapi.io/images/assets/5692.png,Compound,COMP
+0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e,18,https://static.alchemyapi.io/images/assets/8508.png,PoolTogether,POOL
+0x23B608675a2B2fB1890d3ABBd85c5775c51691d5,18,https://static.alchemyapi.io/images/assets/7095.png,Unisocks,SOCKS
+0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48,6,https://static.alchemyapi.io/images/assets/3408.png,USDC,USDC
+0x956F47F50A910163D8BF957Cf5846D573E7f87CA,18,https://static.alchemyapi.io/images/assets/8642.png,Fei USD,FEI
+0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e,18,https://static.alchemyapi.io/images/assets/5864.png,yearn.finance,YFI
+0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2,18,https://static.alchemyapi.io/images/assets/1518.png,Maker,MKR
+0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D,18,https://static.alchemyapi.io/images/assets/7429.png,Liquity,LQTY
+0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2,18,https://static.alchemyapi.io/images/assets/2396.png,WETH,WETH
+0xdAC17F958D2ee523a2206206994597C13D831ec7,6,https://static.alchemyapi.io/images/assets/825.png,Tether USDt,USDT
+0xDc2b82Bc1106C9c5286e59344896fB0ceb932f53,18,,Uniswap V2,UNI-V2
+0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984,18,https://static.alchemyapi.io/images/assets/7083.png,Uniswap,UNI
+0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599,8,https://static.alchemyapi.io/images/assets/3717.png,Wrapped Bitcoin,WBTC
+0x6B175474E89094C44Da98b954EedeAC495271d0F,18,https://static.alchemyapi.io/images/assets/4943.png,Dai,DAI

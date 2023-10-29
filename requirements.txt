@@ -1,0 +1,9 @@
+pandas
+web3
+uuid
+asyncio
+aiohttp
+nest_asyncio
+tqdm
+psycopg2
+sqlalchemy
